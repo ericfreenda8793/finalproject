@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1609661622 source:d:\資料結構\finalp\algorithm_st.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"algorithm.h"
+
+1608571244 d:\資料結構\finalp\algorithm.h
+	"board.h"
+
+1608571244 d:\資料結構\finalp\board.h
+	"player.h"
+
+1608571711 d:\資料結構\finalp\player.h
+
+1608571244 source:d:\資料結構\finalp\algorithm_ta.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"algorithm.h"
+
+1608571244 source:d:\資料結構\finalp\player.cpp
+	"player.h"
+	<iostream>
+
+1609435140 source:d:\資料結構\finalp\main.cpp
+	<iostream>
+	"board.h"
+	"player.h"
+	"rules.h"
+	"algorithm.h"
+
+1608571569 d:\資料結構\finalp\rules.h
+	<iostream>
+	"player.h"
+	"board.h"
+
+1608571612 source:d:\資料結構\finalp\board.cpp
+	<iostream>
+	"board.h"
+	"rules.h"
+
+1608571660 source:d:\資料結構\finalp\rules.cpp
+	"rules.h"
+	<iostream>
+
